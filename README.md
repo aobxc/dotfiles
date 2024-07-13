@@ -1,0 +1,2 @@
+# dotfiles
+Frieren hyprland dotfiles
