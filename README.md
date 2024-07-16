@@ -72,7 +72,7 @@
     </tr>
 </table>
 
-<h2>🎸 Preview</h2>
+<h2>✨ Preview ✨</h2>
 
 <p align="center">
     <img src="./Preview/preview-img.png" alt="Preview" style="width: 85%;">
@@ -81,6 +81,7 @@
 <h2>📝 Credits</h2>
 
 <ul>
+    <li><b>Main inspiration</b> - <a href="https://github.com/Spelljinxer/dotfiles">Spelljinxer's dotfiles</a></li>
     <li><b>Starship theme</b> - <a href="https://github.com/rubyowo/dotfiles">starship theme</a></li>
     <li><b>Waybar theme</b> - <a href="https://github.com/sameemul-haque/dotfiles/tree/mocha">waybar theme</a></li>
     <li><b>sddm original theme</b> - <a href="https://github.com/Keyitdev/sddm-flower-theme">sddm-flower-theme</a></li>
