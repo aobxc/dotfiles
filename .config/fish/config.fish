@@ -167,6 +167,6 @@ alias fucking 'sudo'
 
 ## Run catnap if session is interactive
 if status --is-interactive 
-   wal -R > /dev/null
+   wal -i ~/Pictures/wallpapers/wallpaper.png > /dev/null
    catnap
 end

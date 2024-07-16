@@ -1,28 +1,29 @@
+File: colors.json
 {
-
-    "wallpaper": "/home/aobxc/Pictures/wallpapers/wallpaper.png",
+    "wallpaper": "/home/aobxc/.config/catnap/icon.png",
     "alpha": "100",
+
     "special": {
-        "background": "#1b1e25",
-        "foreground": "#ebddbc",
-        "cursor": "#ebddbc"
+        "background": "#000000",
+        "foreground": "#e1deec",
+        "cursor": "#e1deec"
     },
     "colors": {
-        "color0": "#1b1e25",
-        "color1": "#967786",
-        "color2": "#7293A9",
-        "color3": "#D5A5AA",
-        "color4": "#83A6BF",
-        "color5": "#EAB2C2",
-        "color6": "#DEC386",
-        "color7": "#ebddbc",
-        "color8": "#a49a83",
-        "color9": "#967786",
-        "color10": "#7293A9",
-        "color11": "#D5A5AA",
-        "color12": "#83A6BF",
-        "color13": "#EAB2C2",
-        "color14": "#DEC386",
-        "color15": "#ebddbc"
+        "color0": "#000000",
+        "color1": "#DEA9A7",
+        "color2": "#F2D4A4",
+        "color3": "#A09AC8",
+        "color4": "#B1AACF",
+        "color5": "#C8B6CF",
+        "color6": "#E4D4DC",
+        "color7": "#e1deec",
+        "color8": "#9d9ba5",
+        "color9": "#DEA9A7",
+        "color10": "#F2D4A4",
+        "color11": "#A09AC8",
+        "color12": "#B1AACF",
+        "color13": "#C8B6CF",
+        "color14": "#E4D4DC",
+        "color15": "#e1deec"
     }
 }
