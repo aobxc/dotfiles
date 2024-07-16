@@ -9,7 +9,7 @@
 <h1 align="center">Frieren Hyprland Dotfiles</h1>
 
 <p align="center">
-    <img src="./Preview/title.png" alt="Frieren Hyprland Dotfiles" style="width: 85%;">
+    <img src="./Preview/title.jpg" alt="Frieren Hyprland Dotfiles" style="width: 85%;">
 </p>
 
 <p align="center">Dotfiles configuration for Frieren Hyprland setup. <br> Created in Arch Linux with Hyprland.
@@ -87,6 +87,7 @@
     <li><b>Waybar theme</b> - <a href="https://github.com/sameemul-haque/dotfiles/tree/mocha">waybar theme</a></li>
     <li><b>original sddm theme</b> - <a href="https://github.com/MarianArlt/sddm-sugar-dark">ssdm-sugar-dark</a></li>
     <li><b>waybar theme</b> - <a href="https://github.com/sameemul-haque/dotfiles">sameemul's dotfiles</a></li>
+    <li><b>git's title banner</b> - <a href="https://x.com/nek0chi/status/1735739063112519923">nek0chi on X</a></li>
 </ul>
 
 </body>
