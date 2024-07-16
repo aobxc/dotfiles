@@ -14,7 +14,8 @@ main packages:
 - swww
 - pywal
 
-- other:
+
+other:
 
 - Firefox theme: https://addons.mozilla.org/fr/firefox/addon/catppuccin-mocha-mauve-git/
 - Starship theme : https://github.com/rubyowo/dotfiles
