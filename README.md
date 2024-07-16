@@ -48,7 +48,7 @@
     </tr>
     <tr>
         <td>Shell 🐚</td>
-        <td><a href="https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH">zsh</a> / <a href="https://github.com/romkatv/powerlevel10k">theme</a></td>
+        <td><a href="https://fishshell.com"/>fish</a></td>
     </tr>
     <tr>
         <td>Terminal 🖥️</td>
@@ -87,18 +87,6 @@
     <li><b>Waybar theme</b> - <a href="https://github.com/sameemul-haque/dotfiles/tree/mocha">waybar theme</a></li>
     <li><b>original sddm theme</b> - <a href="https://github.com/MarianArlt/sddm-sugar-dark">sddm-flower-theme</a></li>
 </ul>
-
-<h2>📸 More Screenshots</h2>
-
-<p align="center">
-    <img src="./Screenshots/sddm-sc.png" alt="Screenshot 1" width="75%" />
-</p>
-<p align="center">
-    <img src="./Screenshots/sc-1.png" alt="Screenshot 2" width="75%" />
-</p>
-<p align="center">
-    <img src="./Screenshots/rofi-sc.png" alt="Screenshot 3" width="75%" />
-</p>
 
 </body>
 </html>
