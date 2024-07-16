@@ -98,7 +98,7 @@
     <img src="./Preview/desktop-sc2.png" alt="Screenshot 2" width="75%" />
 </p>
 <p align="center">
-    <img src="./Preview/rofi-sc1.png alt="Screenshot 3" width="75%" />
+    <img src="./Preview/rofi-sc1.png" alt="Screenshot 3" width="75%" />
 </p>
 
 </body>
