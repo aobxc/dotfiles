@@ -1,6 +1,5 @@
-File: colors.json
 {
-    "wallpaper": "/home/aobxc/.config/catnap/icon.png",
+    "wallpaper": "~/.config/catnap/icon.png
     "alpha": "100",
 
     "special": {
