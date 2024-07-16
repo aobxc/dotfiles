@@ -85,7 +85,8 @@
     <li><b>Main inspiration</b> - <a href="https://github.com/Spelljinxer/dotfiles">Spelljinxer's dotfiles</a></li>
     <li><b>Starship theme</b> - <a href="https://github.com/rubyowo/dotfiles">starship theme</a></li>
     <li><b>Waybar theme</b> - <a href="https://github.com/sameemul-haque/dotfiles/tree/mocha">waybar theme</a></li>
-    <li><b>original sddm theme</b> - <a href="https://github.com/MarianArlt/sddm-sugar-dark">sddm-flower-theme</a></li>
+    <li><b>original sddm theme</b> - <a href="https://github.com/MarianArlt/sddm-sugar-dark">ssdm-sugar-dark</a></li>
+    <li><b>waybar theme</b> - <a href="https://github.com/sameemul-haque/dotfiles">sameemul's dotfiles</a></li>
 </ul>
 
 </body>
