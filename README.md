@@ -88,6 +88,7 @@
     <li><b>original sddm theme</b> - <a href="https://github.com/MarianArlt/sddm-sugar-dark">ssdm-sugar-dark</a></li>
     <li><b>waybar theme</b> - <a href="https://github.com/sameemul-haque/dotfiles">sameemul's dotfiles</a></li>
     <li><b>git's title banner</b> - <a href="https://x.com/nek0chi/status/1735739063112519923">nek0chi on X</a></li>
+    <li><b>terminal icon</b> - <a href="https://www.sukawaii.com/products/frieren">sukawaii.com</a></li>
 </ul>
 
 <h2>📸 More Screenshots</h2>
