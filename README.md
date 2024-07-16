@@ -90,5 +90,17 @@
     <li><b>git's title banner</b> - <a href="https://x.com/nek0chi/status/1735739063112519923">nek0chi on X</a></li>
 </ul>
 
+<h2>📸 More Screenshots</h2>
+
+<p align="center">
+    <img src="./Preview/desktop-sc1.png" alt="Screenshot 1" width="75%" />
+</p>
+<p align="center">
+    <img src="./Preview/desktop-sc2.png" alt="Screenshot 2" width="75%" />
+</p>
+<p align="center">
+    <img src="./Preview/rofi-sc1.png" alt="Screenshot 3" width="75%" />
+</p>
+
 </body>
 </html>
