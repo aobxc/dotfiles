@@ -44,7 +44,7 @@
     </tr>
     <tr>
         <td>Fetch 🖼️</td>
-        <td><a href="https://github.com/iinsertNameHere/catnip">catnip</a></td>
+        <td><a href="https://github.com/iinsertNameHere/catnap">catnap</a></td>
     </tr>
     <tr>
         <td>Shell 🐚</td>
