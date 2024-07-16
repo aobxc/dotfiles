@@ -89,5 +89,17 @@
     <li><b>waybar theme</b> - <a href="https://github.com/sameemul-haque/dotfiles">sameemul's dotfiles</a></li>
 </ul>
 
+<h2>📸 More Screenshots</h2>
+
+<p align="center">
+    <img src="./Preview/desktop-sc1.png" alt="Screenshot 1" width="75%" />
+</p>
+<p align="center">
+    <img src="./Preview/desktop-sc2.png" alt="Screenshot 2" width="75%" />
+</p>
+<p align="center">
+    <img src="./Preview/rofi-sc1.png alt="Screenshot 3" width="75%" />
+</p>
+
 </body>
 </html>
