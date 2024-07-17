@@ -4,6 +4,7 @@ set fish_greeting
 set VIRTUAL_ENV_DISABLE_PROMPT "1"
 set -x MANPAGER "sh -c 'col -bx | bat -l man -p'"
 set -x SHELL /usr/bin/fish
+wal -i ~/.config/catnap/icon.png > /dev/null
 
 ## Export variable need for qt-theme
 if type "qtile" >> /dev/null 2>&1
@@ -167,6 +168,5 @@ alias fucking 'sudo'
 
 ## Run catnap if session is interactive
 if status --is-interactive 
-   wal -i ~/Pictures/wallpapers/wallpaper.png > /dev/null
    catnap
 end
