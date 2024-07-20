@@ -13,8 +13,6 @@
 </p>
 
 <p align="center">Dotfiles configuration for Frieren Hyprland setup. <br> Created in Arch Linux with Hyprland.
-<br><br>
-<b>Disclaimer: This is a work in progress.</b>
 </p>
 
 <h2>📦 Main Packages</h2>
